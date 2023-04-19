@@ -8,3 +8,13 @@ Before pruned:
 After pruned:
 
 ![avatar](pruned_glass_tree.png)
+## Work2
+Before pruned:
+
+![avatar](pruned_spam7.png)
+
+After pruned:
+
+![avatar](pruned_spam7_tree5.png)
+
+![avatar](pruned_spam7_tree10.png)
