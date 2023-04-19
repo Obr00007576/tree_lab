@@ -35,3 +35,14 @@ k=10:
 
 K = 10 is better because it has less error and is less overfitted than the original tree.
 
+## Work3
+```
+Regression Tree:
+MAE = 6836.34
+SVM Regression:
+MAE = 5870.39
+```
+
+As what we can see in the results SVM is better than Regression Tree. 
+
+Explanation: The SVM regression model is more accurate than the regression tree because it uses a more complex algorithm to fit the data. SVM regression models can handle non-linear relationships and can automatically select features. On the other hand, regression trees use hierarchical conditions to predict the response variable, which may fail to capture non-linear relationships and may overfit. Therefore, in this example, we chose the SVM regression model as the best model.
