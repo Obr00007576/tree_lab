@@ -11,7 +11,7 @@ After pruned:
 ## Work2
 Before pruned:
 
-![avatar](pruned_spam7.png)
+![avatar](spam7_tree.png)
 
 After pruned:
 
