@@ -46,3 +46,16 @@ MAE = 5870.39
 As what we can see in the results SVM is better than Regression Tree. 
 
 Explanation: The SVM regression model is more accurate than the regression tree because it uses a more complex algorithm to fit the data. SVM regression models can handle non-linear relationships and can automatically select features. On the other hand, regression trees use hierarchical conditions to predict the response variable, which may fail to capture non-linear relationships and may overfit. Therefore, in this example, we chose the SVM regression model as the best model.
+
+# Work4
+![avatar](lens_tree.png)
+
+If with reduced tears -> no contact lens.
+
+If with normal tears then check whether has astigmatism.
+
+If without astigmatism -> soft contact lenses.
+
+If with astigmatism -> hard contact lenses.
+
+Age and sighted-type doesn't influence the decision.
